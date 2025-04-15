@@ -1,0 +1,15 @@
+
+# Ignorar cachés de Python
+__pycache__/
+*.py[cod]
+
+# Ignorar checkpoints de Jupyter
+.ipynb_checkpoints/
+
+# Ignorar archivos temporales
+*.swp
+*.tmp
+
+# Ignorar archivos ocultos del sistema
+.DS_Store
+Thumbs.db
